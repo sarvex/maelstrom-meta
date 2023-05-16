@@ -1,429 +1,580 @@
 [submodule "a-maelstorm"]
 	path = a-maelstorm
 	url = git@github.com:sarvex/a-maelstorm
+  branch = main
 [submodule "ada-maelstorm"]
 	path = ada-maelstorm
 	url = git@github.com:sarvex/ada-maelstorm
+  branch = main
 [submodule "algol-maelstorm"]
 	path = algol-maelstorm
 	url = git@github.com:sarvex/algol-maelstorm
+  branch = main
 [submodule "apl-maelstorm"]
 	path = apl-maelstorm
 	url = git@github.com:sarvex/apl-maelstorm
+  branch = main
 [submodule "assembly-maelstorm"]
 	path = assembly-maelstorm
 	url = git@github.com:sarvex/assembly-maelstorm
+  branch = main
 [submodule "bash-maelstorm"]
 	path = bash-maelstorm
 	url = git@github.com:sarvex/bash-maelstorm
+  branch = main
 [submodule "basic-maelstorm"]
 	path = basic-maelstorm
 	url = git@github.com:sarvex/basic-maelstorm
+  branch = main
 [submodule "beef-maelstorm"]
 	path = beef-maelstorm
 	url = git@github.com:sarvex/beef-maelstorm
+  branch = main
 [submodule "bhai-maelstorm"]
 	path = bhai-maelstorm
 	url = git@github.com:sarvex/bhai-maelstorm
+  branch = main
 [submodule "boo-maelstorm"]
 	path = boo-maelstorm
 	url = git@github.com:sarvex/boo-maelstorm
+  branch = main
 [submodule "bqn-maelstorm"]
 	path = bqn-maelstorm
 	url = git@github.com:sarvex/bqn-maelstorm
+  branch = main
 [submodule "brainfuck-maelstorm"]
 	path = brainfuck-maelstorm
 	url = git@github.com:sarvex/brainfuck-maelstorm
+  branch = main
 [submodule "c---maelstorm"]
 	path = c---maelstorm
 	url = git@github.com:sarvex/c---maelstorm
+  branch = main
 [submodule "c-maelstorm"]
 	path = c-maelstorm
 	url = git@github.com:sarvex/c-maelstorm
+  branch = main
 [submodule "c-sharp-maelstorm"]
 	path = c-sharp-maelstorm
 	url = git@github.com:sarvex/c-sharp-maelstorm
+  branch = main
 [submodule "c3-maelstorm"]
 	path = c3-maelstorm
 	url = git@github.com:sarvex/c3-maelstorm
+  branch = main
 [submodule "carbon-maelstorm"]
 	path = carbon-maelstorm
 	url = git@github.com:sarvex/carbon-maelstorm
+  branch = main
 [submodule "chai-maelstorm"]
 	path = chai-maelstorm
 	url = git@github.com:sarvex/chai-maelstorm
+  branch = main
 [submodule "checked-c-maelstorm"]
 	path = checked-c-maelstorm
 	url = git@github.com:sarvex/checked-c-maelstorm
+  branch = main
 [submodule "chef-maelstorm"]
 	path = chef-maelstorm
 	url = git@github.com:sarvex/chef-maelstorm
+  branch = main
 [submodule "chicken-maelstorm"]
 	path = chicken-maelstorm
 	url = git@github.com:sarvex/chicken-maelstorm
+  branch = main
 [submodule "circle-maelstorm"]
 	path = circle-maelstorm
 	url = git@github.com:sarvex/circle-maelstorm
+  branch = main
 [submodule "clean-maelstorm"]
 	path = clean-maelstorm
 	url = git@github.com:sarvex/clean-maelstorm
+  branch = main
 [submodule "clisp-maelstorm"]
 	path = clisp-maelstorm
 	url = git@github.com:sarvex/clisp-maelstorm
+  branch = main
 [submodule "clojure-maelstorm"]
 	path = clojure-maelstorm
 	url = git@github.com:sarvex/clojure-maelstorm
+  branch = main
 [submodule "clojurescript-maelstorm"]
 	path = clojurescript-maelstorm
 	url = git@github.com:sarvex/clojurescript-maelstorm
+  branch = main
 [submodule "cobol-maelstorm"]
 	path = cobol-maelstorm
 	url = git@github.com:sarvex/cobol-maelstorm
+  branch = main
 [submodule "coffeescript-maelstorm"]
 	path = coffeescript-maelstorm
 	url = git@github.com:sarvex/coffeescript-maelstorm
+  branch = main
 [submodule "cpp-front-maelstorm"]
 	path = cpp-front-maelstorm
 	url = git@github.com:sarvex/cpp-front-maelstorm
+  branch = main
 [submodule "cpp-gold-maelstorm"]
 	path = cpp-gold-maelstorm
 	url = git@github.com:sarvex/cpp-gold-maelstorm
+  branch = main
 [submodule "cpp-maelstorm"]
 	path = cpp-maelstorm
 	url = git@github.com:sarvex/cpp-maelstorm
+  branch = main
 [submodule "cpp-x-blue-maelstorm"]
 	path = cpp-x-blue-maelstorm
 	url = git@github.com:sarvex/cpp-x-blue-maelstorm
+  branch = main
 [submodule "cpp-x-gold-maelstorm"]
 	path = cpp-x-gold-maelstorm
 	url = git@github.com:sarvex/cpp-x-gold-maelstorm
+  branch = main
 [submodule "cpp-x-maelstorm"]
 	path = cpp-x-maelstorm
 	url = git@github.com:sarvex/cpp-x-maelstorm
+  branch = main
 [submodule "cpp2-maelstorm"]
 	path = cpp2-maelstorm
 	url = git@github.com:sarvex/cpp2-maelstorm
+  branch = main
 [submodule "crystal-maelstorm"]
 	path = crystal-maelstorm
 	url = git@github.com:sarvex/crystal-maelstorm
+  branch = main
 [submodule "csh-maelstorm"]
 	path = csh-maelstorm
 	url = git@github.com:sarvex/csh-maelstorm
+  branch = main
 [submodule "cuda-maelstorm"]
 	path = cuda-maelstorm
 	url = git@github.com:sarvex/cuda-maelstorm
+  branch = main
 [submodule "cyber-maelstorm"]
 	path = cyber-maelstorm
 	url = git@github.com:sarvex/cyber-maelstorm
+  branch = main
 [submodule "d-maelstorm"]
 	path = d-maelstorm
 	url = git@github.com:sarvex/d-maelstorm
+  branch = main
 [submodule "dart-maelstorm"]
 	path = dart-maelstorm
 	url = git@github.com:sarvex/dart-maelstorm
+  branch = main
 [submodule "dylan-maelstorm"]
 	path = dylan-maelstorm
 	url = git@github.com:sarvex/dylan-maelstorm
+  branch = main
 [submodule "dylog-maelstorm"]
 	path = dylog-maelstorm
 	url = git@github.com:sarvex/dylog-maelstorm
+  branch = main
 [submodule "elixir-maelstorm"]
 	path = elixir-maelstorm
 	url = git@github.com:sarvex/elixir-maelstorm
+  branch = main
 [submodule "elm-maelstorm"]
 	path = elm-maelstorm
 	url = git@github.com:sarvex/elm-maelstorm
+  branch = main
 [submodule "elvish-maelstorm"]
 	path = elvish-maelstorm
 	url = git@github.com:sarvex/elvish-maelstorm
+  branch = main
 [submodule "emoji-code-maelstorm"]
 	path = emoji-code-maelstorm
 	url = git@github.com:sarvex/emoji-code-maelstorm
+  branch = main
 [submodule "erlang-maelstorm"]
 	path = erlang-maelstorm
 	url = git@github.com:sarvex/erlang-maelstorm
+  branch = main
 [submodule "factor-maelstorm"]
 	path = factor-maelstorm
 	url = git@github.com:sarvex/factor-maelstorm
+  branch = main
 [submodule "fish-maelstorm"]
 	path = fish-maelstorm
 	url = git@github.com:sarvex/fish-maelstorm
+  branch = main
 [submodule "forth-maelstorm"]
 	path = forth-maelstorm
 	url = git@github.com:sarvex/forth-maelstorm
+  branch = main
 [submodule "fortran-maelstorm"]
 	path = fortran-maelstorm
 	url = git@github.com:sarvex/fortran-maelstorm
+  branch = main
 [submodule "free-basic-maelstorm"]
 	path = free-basic-maelstorm
 	url = git@github.com:sarvex/free-basic-maelstorm
+  branch = main
 [submodule "free-pascal-maelstorm"]
 	path = free-pascal-maelstorm
 	url = git@github.com:sarvex/free-pascal-maelstorm
+  branch = main
 [submodule "f-sharp-maelstorm"]
 	path = f-sharp-maelstorm
 	url = git@github.com:sarvex/f-sharp-maelstorm
+  branch = main
 [submodule "gforth-maelstorm"]
 	path = gforth-maelstorm
 	url = git@github.com:sarvex/gforth-maelstorm
+  branch = main
 [submodule "giz-maelstorm"]
 	path = giz-maelstorm
 	url = git@github.com:sarvex/giz-maelstorm
+  branch = main
 [submodule "go-maelstorm"]
 	path = go-maelstorm
 	url = git@github.com:sarvex/go-maelstorm
+  branch = main
 [submodule "gravity-maelstorm"]
 	path = gravity-maelstorm
 	url = git@github.com:sarvex/gravity-maelstorm
+  branch = main
 [submodule "guile-maelstorm"]
 	path = guile-maelstorm
 	url = git@github.com:sarvex/guile-maelstorm
+  branch = main
 [submodule "hack-maelstorm"]
 	path = hack-maelstorm
 	url = git@github.com:sarvex/hack-maelstorm
+  branch = main
 [submodule "harbour-maelstorm"]
 	path = harbour-maelstorm
 	url = git@github.com:sarvex/harbour-maelstorm
+  branch = main
 [submodule "haskell-maelstorm"]
 	path = haskell-maelstorm
 	url = git@github.com:sarvex/haskell-maelstorm
+  branch = main
 [submodule "haxe-maelstorm"]
 	path = haxe-maelstorm
 	url = git@github.com:sarvex/haxe-maelstorm
+  branch = main
 [submodule "hlsl-maelstorm"]
 	path = hlsl-maelstorm
 	url = git@github.com:sarvex/hlsl-maelstorm
+  branch = main
 [submodule "holy-c-maelstorm"]
 	path = holy-c-maelstorm
 	url = git@github.com:sarvex/holy-c-maelstorm
+  branch = main
+[submodule "hook-maelstorm"]
+	path = hook-maelstorm
+	url = git@github.com:sarvex/hook-maelstorm
+  branch = main
 [submodule "idris-maelstorm"]
 	path = idris-maelstorm
 	url = git@github.com:sarvex/idris-maelstorm
+  branch = main
 [submodule "intercal-maelstorm"]
 	path = intercal-maelstorm
 	url = git@github.com:sarvex/intercal-maelstorm
+  branch = main
 [submodule "io-maelstorm"]
 	path = io-maelstorm
 	url = git@github.com:sarvex/io-maelstorm
+  branch = main
 [submodule "ion-maelstorm"]
 	path = ion-maelstorm
 	url = git@github.com:sarvex/ion-maelstorm
+  branch = main
 [submodule "ispc-maelstorm"]
 	path = ispc-maelstorm
 	url = git@github.com:sarvex/ispc-maelstorm
+  branch = main
 [submodule "j-maelstorm"]
 	path = j-maelstorm
 	url = git@github.com:sarvex/j-maelstorm
+  branch = main
 [submodule "jai-maelstorm"]
 	path = jai-maelstorm
 	url = git@github.com:sarvex/jai-maelstorm
+  branch = main
 [submodule "java-maelstorm"]
 	path = java-maelstorm
 	url = git@github.com:sarvex/java-maelstorm
+  branch = main
 [submodule "javascript-maelstorm"]
 	path = javascript-maelstorm
 	url = git@github.com:sarvex/javascript-maelstorm
+  branch = main
 [submodule "julia-maelstorm"]
 	path = julia-maelstorm
 	url = git@github.com:sarvex/julia-maelstorm
+  branch = main
 [submodule "k-maelstorm"]
 	path = k-maelstorm
 	url = git@github.com:sarvex/k-maelstorm
+  branch = main
 [submodule "kotlin-maelstorm"]
 	path = kotlin-maelstorm
 	url = git@github.com:sarvex/kotlin-maelstorm
+  branch = main
 [submodule "ksh-maelstorm"]
 	path = ksh-maelstorm
 	url = git@github.com:sarvex/ksh-maelstorm
+  branch = main
 [submodule "l-maelstorm"]
 	path = l-maelstorm
 	url = git@github.com:sarvex/l-maelstorm
+  branch = main
 [submodule "lisp-maelstorm"]
 	path = lisp-maelstorm
 	url = git@github.com:sarvex/lisp-maelstorm
+  branch = main
 [submodule "llvm-maelstorm"]
 	path = llvm-maelstorm
 	url = git@github.com:sarvex/llvm-maelstorm
+  branch = main
 [submodule "lol-code-maelstorm"]
 	path = lol-code-maelstorm
 	url = git@github.com:sarvex/lol-code-maelstorm
+  branch = main
 [submodule "lua-maelstorm"]
 	path = lua-maelstorm
 	url = git@github.com:sarvex/lua-maelstorm
+  branch = main
 [submodule "machine-maelstorm"]
 	path = machine-maelstorm
 	url = git@github.com:sarvex/machine-maelstorm
+  branch = main
 [submodule "malbolge-maelstorm"]
 	path = malbolge-maelstorm
 	url = git@github.com:sarvex/malbolge-maelstorm
+  branch = main
 [submodule "matlab-maelstorm"]
 	path = matlab-maelstorm
 	url = git@github.com:sarvex/matlab-maelstorm
+  branch = main
 [submodule "mini-kanren-maelstorm"]
 	path = mini-kanren-maelstorm
 	url = git@github.com:sarvex/mini-kanren-maelstorm
+  branch = main
 [submodule "mlir-maelstorm"]
 	path = mlir-maelstorm
 	url = git@github.com:sarvex/mlir-maelstorm
+  branch = main
 [submodule "modula-maelstorm"]
 	path = modula-maelstorm
 	url = git@github.com:sarvex/modula-maelstorm
+  branch = main
 [submodule "mojo-maelstorm"]
 	path = mojo-maelstorm
 	url = git@github.com:sarvex/mojo-maelstorm
+  branch = main
 [submodule "nativescript-maelstorm"]
 	path = nativescript-maelstorm
 	url = git@github.com:sarvex/nativescript-maelstorm
+  branch = main
 [submodule "nelua-maelstorm"]
 	path = nelua-maelstorm
 	url = git@github.com:sarvex/nelua-maelstorm
-[submodule "nushell-maelstorm"]
-	path = nushell-maelstorm
-	url = git@github.com:sarvex/nushell-maelstorm
-[submodule "objc-maelstorm"]
-	path = objc-maelstorm
-	url = git@github.com:sarvex/objc-maelstorm
-[submodule "objcpp-maelstorm"]
-	path = objcpp-maelstorm
-	url = git@github.com:sarvex/objcpp-maelstorm
-[submodule "object-pascal-maelstorm"]
-	path = object-pascal-maelstorm
-	url = git@github.com:sarvex/object-pascal-maelstorm
-[submodule "ocaml-maelstorm"]
-	path = ocaml-maelstorm
-	url = git@github.com:sarvex/ocaml-maelstorm
-[submodule "odin-maelstorm"]
-	path = odin-maelstorm
-	url = git@github.com:sarvex/odin-maelstorm
-[submodule "opencl-maelstorm"]
-	path = opencl-maelstorm
-	url = git@github.com:sarvex/opencl-maelstorm
-[submodule "pascal-maelstorm"]
-	path = pascal-maelstorm
-	url = git@github.com:sarvex/pascal-maelstorm
-[submodule "perl-maelstorm"]
-	path = perl-maelstorm
-	url = git@github.com:sarvex/perl-maelstorm
-[submodule "pharo-maelstorm"]
-	path = pharo-maelstorm
-	url = git@github.com:sarvex/pharo-maelstorm
-[submodule "php-maelstorm"]
-	path = php-maelstorm
-	url = git@github.com:sarvex/php-maelstorm
-[submodule "piet-maelstorm"]
-	path = piet-maelstorm
-	url = git@github.com:sarvex/piet-maelstorm
-[submodule "pony-maelstorm"]
-	path = pony-maelstorm
-	url = git@github.com:sarvex/pony-maelstorm
-[submodule "powershell-maelstorm"]
-	path = powershell-maelstorm
-	url = git@github.com:sarvex/powershell-maelstorm
-[submodule "prolog-maelstorm"]
-	path = prolog-maelstorm
-	url = git@github.com:sarvex/prolog-maelstorm
-[submodule "purescript-maelstorm"]
-	path = purescript-maelstorm
-	url = git@github.com:sarvex/purescript-maelstorm
-[submodule "python-maelstorm"]
-	path = python-maelstorm
-	url = git@github.com:sarvex/python-maelstorm
-[submodule "q-maelstorm"]
-	path = q-maelstorm
-	url = git@github.com:sarvex/q-maelstorm
-[submodule "q-sharp-maelstorm"]
-	path = q-sharp-maelstorm
-	url = git@github.com:sarvex/q-sharp-maelstorm
-[submodule "racket-maelstorm"]
-	path = racket-maelstorm
-	url = git@github.com:sarvex/racket-maelstorm
-[submodule "raku-maelstorm"]
-	path = raku-maelstorm
-	url = git@github.com:sarvex/raku-maelstorm
-[submodule "rect-maelstorm"]
-	path = rect-maelstorm
-	url = git@github.com:sarvex/rect-maelstorm
-[submodule "red-maelstorm"]
-	path = red-maelstorm
-	url = git@github.com:sarvex/red-maelstorm
-[submodule "rockstar-maelstorm"]
-	path = rockstar-maelstorm
-	url = git@github.com:sarvex/rockstar-maelstorm
-[submodule "ruby-maelstorm"]
-	path = ruby-maelstorm
-	url = git@github.com:sarvex/ruby-maelstorm
-[submodule "s-maelstorm"]
-	path = s-maelstorm
-	url = git@github.com:sarvex/s-maelstorm
-[submodule "scala-maelstorm"]
-	path = scala-maelstorm
-	url = git@github.com:sarvex/scala-maelstorm
-[submodule "scheme-maelstorm"]
-	path = scheme-maelstorm
-	url = git@github.com:sarvex/scheme-maelstorm
-[submodule "scopes-maelstorm"]
-	path = scopes-maelstorm
-	url = git@github.com:sarvex/scopes-maelstorm
-[submodule "scratch-maelstorm"]
-	path = scratch-maelstorm
-	url = git@github.com:sarvex/scratch-maelstorm
-[submodule "shakespeare-maelstorm"]
-	path = shakespeare-maelstorm
-	url = git@github.com:sarvex/shakespeare-maelstorm
-[submodule "simula-maelstorm"]
-	path = simula-maelstorm
-	url = git@github.com:sarvex/simula-maelstorm
-[submodule "skip-maelstorm"]
-	path = skip-maelstorm
-	url = git@github.com:sarvex/skip-maelstorm
-[submodule "small-basic-maelstorm"]
-	path = small-basic-maelstorm
-	url = git@github.com:sarvex/small-basic-maelstorm
-[submodule "smalltalk-maelstorm"]
-	path = smalltalk-maelstorm
-	url = git@github.com:sarvex/smalltalk-maelstorm
-[submodule "solidity-maelstorm"]
-	path = solidity-maelstorm
-	url = git@github.com:sarvex/solidity-maelstorm
-[submodule "swift-maelstorm"]
-	path = swift-maelstorm
-	url = git@github.com:sarvex/swift-maelstorm
-[submodule "tcsh-maelstorm"]
-	path = tcsh-maelstorm
-	url = git@github.com:sarvex/tcsh-maelstorm
-[submodule "tsh-maelstorm"]
-	path = tsh-maelstorm
-	url = git@github.com:sarvex/tsh-maelstorm
-[submodule "typescript-maelstorm"]
-	path = typescript-maelstorm
-	url = git@github.com:sarvex/typescript-maelstorm
-[submodule "umka-maelstorm"]
-	path = umka-maelstorm
-	url = git@github.com:sarvex/umka-maelstorm
-[submodule "v-maelstorm"]
-	path = v-maelstorm
-	url = git@github.com:sarvex/v-maelstorm
-[submodule "vala-maelstorm"]
-	path = vala-maelstorm
-	url = git@github.com:sarvex/vala-maelstorm
-[submodule "verilog-maelstorm"]
-	path = verilog-maelstorm
-	url = git@github.com:sarvex/verilog-maelstorm
-[submodule "visual-basic-maelstorm"]
-	path = visual-basic-maelstorm
-	url = git@github.com:sarvex/visual-basic-maelstorm
-[submodule "wren-maelstorm"]
-	path = wren-maelstorm
-	url = git@github.com:sarvex/wren-maelstorm
-[submodule "xonsh-maelstorm"]
-	path = xonsh-maelstorm
-	url = git@github.com:sarvex/xonsh-maelstorm
-[submodule "zig-maelstorm"]
-	path = zig-maelstorm
-	url = git@github.com:sarvex/zig-maelstorm
-[submodule "zsh-maelstorm"]
-	path = zsh-maelstorm
-	url = git@github.com:sarvex/zsh-maelstorm
+  branch = main
 [submodule "nim-maelstorm"]
 	path = nim-maelstorm
 	url = git@github.com:sarvex/nim-maelstorm
+  branch = main
+[submodule "nushell-maelstorm"]
+	path = nushell-maelstorm
+	url = git@github.com:sarvex/nushell-maelstorm
+  branch = main
+[submodule "objc-maelstorm"]
+	path = objc-maelstorm
+	url = git@github.com:sarvex/objc-maelstorm
+  branch = main
+[submodule "objcpp-maelstorm"]
+	path = objcpp-maelstorm
+	url = git@github.com:sarvex/objcpp-maelstorm
+  branch = main
+[submodule "object-pascal-maelstorm"]
+	path = object-pascal-maelstorm
+	url = git@github.com:sarvex/object-pascal-maelstorm
+  branch = main
+[submodule "ocaml-maelstorm"]
+	path = ocaml-maelstorm
+	url = git@github.com:sarvex/ocaml-maelstorm
+  branch = main
+[submodule "odin-maelstorm"]
+	path = odin-maelstorm
+	url = git@github.com:sarvex/odin-maelstorm
+  branch = main
+[submodule "opencl-maelstorm"]
+	path = opencl-maelstorm
+	url = git@github.com:sarvex/opencl-maelstorm
+  branch = main
+[submodule "pascal-maelstorm"]
+	path = pascal-maelstorm
+	url = git@github.com:sarvex/pascal-maelstorm
+  branch = main
+[submodule "perl-maelstorm"]
+	path = perl-maelstorm
+	url = git@github.com:sarvex/perl-maelstorm
+  branch = main
+[submodule "pharo-maelstorm"]
+	path = pharo-maelstorm
+	url = git@github.com:sarvex/pharo-maelstorm
+  branch = main
+[submodule "php-maelstorm"]
+	path = php-maelstorm
+	url = git@github.com:sarvex/php-maelstorm
+  branch = main
+[submodule "piet-maelstorm"]
+	path = piet-maelstorm
+	url = git@github.com:sarvex/piet-maelstorm
+  branch = main
+[submodule "pony-maelstorm"]
+	path = pony-maelstorm
+	url = git@github.com:sarvex/pony-maelstorm
+  branch = main
+[submodule "powershell-maelstorm"]
+	path = powershell-maelstorm
+	url = git@github.com:sarvex/powershell-maelstorm
+  branch = main
+[submodule "prolog-maelstorm"]
+	path = prolog-maelstorm
+	url = git@github.com:sarvex/prolog-maelstorm
+  branch = main
+[submodule "purescript-maelstorm"]
+	path = purescript-maelstorm
+	url = git@github.com:sarvex/purescript-maelstorm
+  branch = main
+[submodule "python-maelstorm"]
+	path = python-maelstorm
+	url = git@github.com:sarvex/python-maelstorm
+  branch = main
+[submodule "q-maelstorm"]
+	path = q-maelstorm
+	url = git@github.com:sarvex/q-maelstorm
+  branch = main
+[submodule "q-sharp-maelstorm"]
+	path = q-sharp-maelstorm
+	url = git@github.com:sarvex/q-sharp-maelstorm
+  branch = main
+[submodule "r-maelstorm"]
+	path = r-maelstorm
+	url = git@github.com:sarvex/r-maelstorm
+  branch = main
+[submodule "racket-maelstorm"]
+	path = racket-maelstorm
+	url = git@github.com:sarvex/racket-maelstorm
+  branch = main
+[submodule "raku-maelstorm"]
+	path = raku-maelstorm
+	url = git@github.com:sarvex/raku-maelstorm
+  branch = main
+[submodule "rect-maelstorm"]
+	path = rect-maelstorm
+	url = git@github.com:sarvex/rect-maelstorm
+  branch = main
+[submodule "red-maelstorm"]
+	path = red-maelstorm
+	url = git@github.com:sarvex/red-maelstorm
+  branch = main
+[submodule "rockstar-maelstorm"]
+	path = rockstar-maelstorm
+	url = git@github.com:sarvex/rockstar-maelstorm
+  branch = main
+[submodule "ruby-maelstorm"]
+	path = ruby-maelstorm
+	url = git@github.com:sarvex/ruby-maelstorm
+  branch = main
+[submodule "s-maelstorm"]
+	path = s-maelstorm
+	url = git@github.com:sarvex/s-maelstorm
+  branch = main
+[submodule "scala-maelstorm"]
+	path = scala-maelstorm
+	url = git@github.com:sarvex/scala-maelstorm
+  branch = main
+[submodule "scheme-maelstorm"]
+	path = scheme-maelstorm
+	url = git@github.com:sarvex/scheme-maelstorm
+  branch = main
+[submodule "scopes-maelstorm"]
+	path = scopes-maelstorm
+	url = git@github.com:sarvex/scopes-maelstorm
+  branch = main
+[submodule "scratch-maelstorm"]
+	path = scratch-maelstorm
+	url = git@github.com:sarvex/scratch-maelstorm
+  branch = main
+[submodule "shakespeare-maelstorm"]
+	path = shakespeare-maelstorm
+	url = git@github.com:sarvex/shakespeare-maelstorm
+  branch = main
+[submodule "simula-maelstorm"]
+	path = simula-maelstorm
+	url = git@github.com:sarvex/simula-maelstorm
+  branch = main
+[submodule "skip-maelstorm"]
+	path = skip-maelstorm
+	url = git@github.com:sarvex/skip-maelstorm
+  branch = main
+[submodule "small-basic-maelstorm"]
+	path = small-basic-maelstorm
+	url = git@github.com:sarvex/small-basic-maelstorm
+  branch = main
+[submodule "smalltalk-maelstorm"]
+	path = smalltalk-maelstorm
+	url = git@github.com:sarvex/smalltalk-maelstorm
+  branch = main
+[submodule "solidity-maelstorm"]
+	path = solidity-maelstorm
+	url = git@github.com:sarvex/solidity-maelstorm
+  branch = main
+[submodule "swift-maelstorm"]
+	path = swift-maelstorm
+	url = git@github.com:sarvex/swift-maelstorm
+  branch = main
+[submodule "tcsh-maelstorm"]
+	path = tcsh-maelstorm
+	url = git@github.com:sarvex/tcsh-maelstorm
+  branch = main
+[submodule "tsh-maelstorm"]
+	path = tsh-maelstorm
+	url = git@github.com:sarvex/tsh-maelstorm
+  branch = main
+[submodule "typescript-maelstorm"]
+	path = typescript-maelstorm
+	url = git@github.com:sarvex/typescript-maelstorm
+  branch = main
+[submodule "umka-maelstorm"]
+	path = umka-maelstorm
+	url = git@github.com:sarvex/umka-maelstorm
+  branch = main
+[submodule "v-maelstorm"]
+	path = v-maelstorm
+	url = git@github.com:sarvex/v-maelstorm
+  branch = main
+[submodule "vala-maelstorm"]
+	path = vala-maelstorm
+	url = git@github.com:sarvex/vala-maelstorm
+  branch = main
+[submodule "verilog-maelstorm"]
+	path = verilog-maelstorm
+	url = git@github.com:sarvex/verilog-maelstorm
+  branch = main
+[submodule "visual-basic-maelstorm"]
+	path = visual-basic-maelstorm
+	url = git@github.com:sarvex/visual-basic-maelstorm
+  branch = main
+[submodule "wren-maelstorm"]
+	path = wren-maelstorm
+	url = git@github.com:sarvex/wren-maelstorm
+  branch = main
+[submodule "xonsh-maelstorm"]
+	path = xonsh-maelstorm
+	url = git@github.com:sarvex/xonsh-maelstorm
+  branch = main
+[submodule "zig-maelstorm"]
+	path = zig-maelstorm
+	url = git@github.com:sarvex/zig-maelstorm
+  branch = main
+[submodule "zsh-maelstorm"]
+	path = zsh-maelstorm
+	url = git@github.com:sarvex/zsh-maelstorm
+  branch = main
